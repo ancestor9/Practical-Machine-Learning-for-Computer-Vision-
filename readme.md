@@ -3,5 +3,5 @@
 —François Chollet Deep learning researcher and creator of Keras
 
 
-[YOLO](https://www.youtube.com/watch?v=-MMj68JnWmk&t=994s)
-[Andrew YOLO](https://www.youtube.com/watch?v=GSwYGkTfOKk&list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs&index=1)
+- [YOLO](https://www.youtube.com/watch?v=-MMj68JnWmk&t=994s)
+- [Andrew YOLO](https://www.youtube.com/watch?v=GSwYGkTfOKk&list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs&index=1)
